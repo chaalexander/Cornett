@@ -1,0 +1,31 @@
+body {
+  background-color: lightpink;
+}
+
+#header {
+  background-color: lime;
+  height: 50px;
+  display: flex;
+  justify-content: space-around;
+}
+
+#content {
+  text-align: center;
+}
+
+#main {
+  color: lime;
+}
+
+#footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: darkgray;
+  color: white;
+  text-align: center;
+  margin-top: 30px;
+}
+
+
